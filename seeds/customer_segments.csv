@@ -1,0 +1,6 @@
+customer_id,customer_segment,region,is_active
+1,Premium,West,true
+2,Standard,West,true
+3,Standard,East,false
+4,Premium,South,true
+5,Trial,West,true
